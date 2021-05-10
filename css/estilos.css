@@ -5,6 +5,13 @@ body{
   font-family: Courier, Helvetica, sans-serif;
 }
 
+.cabecera{
+  background-color: burlywood;
+  color: brown;
+  text-align:  center;
+  text-transform: uppercase;
+}
+
 .container{
   width: 70%;
   padding: 1em;

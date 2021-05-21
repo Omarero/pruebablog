@@ -40,3 +40,11 @@ img{
 .container h1{
   font-size: 16px;
 }
+
+
+.footer{
+  color: black;
+  background-color: cadetblue;
+  text-transform: uppercase;
+  padding: 5px;
+}
